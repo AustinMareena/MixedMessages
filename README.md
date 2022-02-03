@@ -1,4 +1,4 @@
-# Mixed Message - Codecademy Project
+# Mixed Messages - Codecademy Project
 
 For this project, I will build a message generator program. Every time a user runs the program, they should get a new, randomized output. To make this program truly random, the message that it outputs should be made up of at least three different pieces of data. 
 
